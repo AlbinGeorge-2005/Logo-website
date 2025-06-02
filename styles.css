@@ -1,0 +1,38 @@
+
+body{
+    background-color: black;
+    color: white;
+}
+h1{
+    font-size: 44px;
+}
+* {
+    font-family: "Tagesschrift", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+.comic-relief-regular {
+    font-family: "Comic Relief", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  button{
+    background-color: black;
+    border: 2px solid white;
+    color: white;
+    border-radius: 24px;
+    padding: 10px;
+  }
+
+  button:hover{
+    background-color: white;
+    color: black;
+  }
+
+  input{
+    width: 350px;
+    background-color: black;
+    color: white;
+    padding: 10px 5px;
+  }
